@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 
 # --- CONFIG ---
 DATA_DIR = "data"
-INPUT_JSON = "words.json" 
+INPUT_JSON = "6/words.json" 
 LISTS = ["hard", "difficult", "easy", "unknown"]
 REPEAT_INTERVALS = {
     "difficult": 5,   # minutes
